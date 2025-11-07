@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer+%F0%9F%A4%96;React+%7C+Node.js+%7C+MongoDB+%7C+ML+Ops;Building+Next-Gen+Apps+with+Intelligence+%F0%9F%9A%80;Futuristic+UI+%26+Scalable+Systems+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer+%F0%9F%A4%96;React+%7C+Node.js+%7C+MongoDB;Building+Next-Gen+Apps+with+Intelligence+%F0%9F%9A%80;Futuristic+UI+%26+Scalable+Systems+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
