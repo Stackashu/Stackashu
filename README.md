@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  👨‍💻 MERN Stack & Mobile App Developer | 🚀 Exploring Gen AI & MLOps
+  👨‍💻 MERN Stack & Mobile App Developer | 🚀 Exploring Gen AI & AI/ML
 </h3>
 
 <p align="center">
