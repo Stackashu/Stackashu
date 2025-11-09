@@ -29,7 +29,7 @@
 > "I don’t just code — I architect intelligence into systems."
 
 - 💡 **Full Stack Engineer** passionate about AI integration & automation  
-- 🧠 Exploring **Generative AI**, **MLOps**, and **LLM-powered apps**  
+- 🧠 Exploring **Generative AI and **LLM-powered apps**  
 - 🧩 Obsessed with **system scalability**, **clean architecture**, and **fast APIs**  
 - 🎨 Crafting **smooth, futuristic UIs** with **Three.js** & **TailwindCSS**  
 - ⚡ Constantly evolving — one commit at a time  
