@@ -1,87 +1,67 @@
-<!-- 🤖 Futuristic AI-Themed GitHub Profile by Stackashu 💫 -->
+<h1 align="center">Hey, I'm Ashish Verma 👋</h1>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">
-  <span style="color:#00f0ff;">Ashish Verma</span> ⚡
-</h1>
-
-<h3 align="center">
-  👨‍💻 MERN Stack & Mobile App Developer | 🚀 Exploring Gen AI & AI/ML
-</h3>
+<h3 align="center">Software Development Engineer @ BuzyTech Solution</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+%26+Mern+Stack+Developer+%F0%9F%A4%96;React+%7C+Node.js+%7C+MongoDB;Building+Next-Gen+Apps+with+Intelligence+%F0%9F%9A%80;Futuristic+UI+%26+Scalable+Systems+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Node.js+%2B+AWS;Shipping+AI-integrated+products+in+production;MERN+Stack+%7C+Microservices+%7C+Event-Driven+Architecture;Currently+exploring+LangChain+%26+LangGraph" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://stackashu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=00B4D8" /></a>
+  <a href="https://linkedin.com/in/ashish-verma-384205262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:ashu12141214@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://leetcode.com/stackashu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0B0B0B?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### About Me
+
+I'm a backend-leaning full-stack engineer with 1+ year of experience shipping production systems — not side projects. At BuzyTech Solution, I build the backend for an AI meeting and real-time transcription platform used by a 10-engineer team, handling 100+ meetings/month across Google Meet, Zoom, and Teams integrations.
+
+- 🔭 Currently building event-driven microservices with **Node.js, AWS EventBridge & SQS**
+- 🧠 Integrating LLMs (**OpenAI, LangChain, LangGraph**) into real backend workflows — not just demos
+- ⚙️ Comfortable across the stack: **React/Next.js** on the frontend, **MongoDB/Redis** on the data layer
+- 📈 Into systems that scale — async workers, caching strategies, CDN delivery
+- 🌱 Currently sharpening DSA + system design fundamentals
+
+---
+
+### Projects I'm Proud Of
+
+**[StalkShops](https://github.com/Stackashu/StalkShops-Frontend)** — Real-time street vendor discovery platform. Live location tracking every 5s using Redis as a high-frequency store to keep MongoDB load down, plus OpenStreetMap for geo-discovery and FCM for notifications.
+`Next.js · Node.js · Redis · WebSockets · OpenStreetMap`
+
+**[HireDevs](https://github.com/Stackashu/HIREDEVS_Frontend)** — Team-based ticket management platform with LLM-based ticket classification and workload-aware routing, processed asynchronously via Inngest.
+`React.js · Node.js · MongoDB · LLM · Inngest`
+
+---
+
+### Tech Stack
+
 <p align="center">
-  <a href="https://stackashu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300F0FF.svg?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="mailto:ashu12141214@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ashish-verma-384205262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/stackashu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redis,aws,docker,py,cpp,git,postman&theme=dark" />
 </p>
 
 ---
 
-### 🤖 About Me
-> "I don’t just code — I architect intelligence into systems."
+### GitHub Stats
 
-- 💡 **Full Stack Engineer** passionate about AI integration & automation  
-- 🧠 Exploring **Generative AI** and **LLM-powered apps**  
-- 🧩 Obsessed with **system scalability**, **clean architecture**, and **fast APIs**  
-- 🎨 Crafting **smooth, futuristic UIs** with **Three.js** & **TailwindCSS**  
-- ⚡ Constantly evolving — one commit at a time  
-
----
-
-### ⚙️ Tech Stack (My Neural Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,tailwind,python,cpp,git,github,postman,docker,figma,mysql,redis,pytorch,tensorflow" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stackashu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stackashu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20AI%20Ecosystem&align=center&fontFamily=Fira%20Code&lineCount=3&theme=radical&line1=Next.js,React,Node.js;line2=LangChain,Python,OpenAI,TensorFlow;line3=Docker,Redis,MongoDB,Postman" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackashu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Neural Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stackashu&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stackashu&theme=radical&hide_border=true" />
+  <sub>Open to Software Engineer roles in Gurgaon, Bangalore, and Noida — feel free to reach out.</sub>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackashu&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements & AI Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stackashu&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-### 🌌 Neural Network in Action
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="AI Network GIF" />
-</p>
-
----
-
-### 📈 Visitor Uplink
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stackashu&label=Visitors&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-<h3 align="center">⚡ “Code. Learn. Automate. Evolve.” ⚡</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=stackashu&label=Profile+Views&color=0B0B0B&style=flat-square" alt="Profile Views" />
 </p>
